@@ -12,6 +12,8 @@ I am a software engineer with 6 years experience and write a good piece of softw
 
 ### **WHAT ARE YOUR WEAKNESSES?**
 
+You can admit to those which you have that are irrelevant to the job in question. Whatever weaknesses you state, make sure your answer is a positive one by making sure you have examples of how you have overcome them in past roles.
+
 ### **WHAT IS YOUR GREATEST ACHIEVEMENT?**
 
 ### **WHAT WOULD YOU LIKE TO BE DOING FIVE YEARS FROM NOW?**
