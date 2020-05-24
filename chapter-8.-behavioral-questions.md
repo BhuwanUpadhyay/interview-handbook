@@ -20,8 +20,6 @@ This is a good opportunity to highlight how you can contribute to the company if
 
 Your answer should assure the interviewer that your career progression goals are in line with the actual future plans for the company. As such, it is crucial that you do your homework on the company’s future plans so that you know what to expect for yourself and whether it will meet your long-term career objectives.
 
-
-
 ### **WHY DO YOU WANT TO WORK WITH US?**
 
 This is the question designed to give your interviewer an indication of how much you know about the organisation, their culture and whether you can identify with the company’s vision and values. Every business has its strong points; just make sure you focus on these in your answer. ****
