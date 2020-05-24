@@ -8,7 +8,7 @@ What should your reply cover?  Make sure you have done your research on what the
 
 #### _Answer_
 
-I am a software engineer with 6 years experience and write a good piece of software by involving myself in the complete product development life-cycle of successfully launched applications. I'm great at knowing the right algorithm for a problem and the suitable architecture for a business because I read software engineering books, articles, blog post constantly. I love working with people to do things bigger than I cold accomplish alone. I'm motivated by big problems that can challenge me. Also, love to helps other and don't afraid to try new stuffs.
+I am a software engineer with 6 years experience and write a good piece of software by involving myself in the complete product development life-cycle of successfully launched applications. I'm great at knowing the right algorithm for a problem and the suitable architecture for a business because I read software engineering books, articles, blog post constantly. I love working with people to do things bigger than I cold accomplish alone. I'm motivated by big problems that can challenge me. Also, I love to helps other and don't afraid to try new stuffs.
 
 ### **WHAT ARE YOUR WEAKNESSES?**
 
