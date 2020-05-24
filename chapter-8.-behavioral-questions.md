@@ -38,13 +38,15 @@ Once you know why you want this job, you can then prepare a response that will r
 
 ### **WHY DID YOU LEAVE YOUR LAST JOB?**
 
-Whatever your reason, make sure you put a positive spin on your answer. Never complain about what made you unhappy or make derogatory remarks about colleagues or management, this is a real no, no in interviews. Instead focus on your career goals and how the job you are applying for provides a better environment for growth than your previous or current one. Emphasis what you have learned in your most recent role and the valuable skills you can now offer.
+Whatever your reason, make sure you put a positive spin on your answer. Never complain about what made you unhappy or make derogatory remarks about colleagues or management, this is a real no, no in interviews. Instead focus on your career goals and how the job you are applying for provides a better environment for growth than your previous or current one. Emphasize what you have learned in your most recent role and the valuable skills you can now offer.
 
 ### **WHY SHOULD WE HIRE YOU?**
 
 This is the answer where you link your skills, experience, education and your personality to the job itself. So you must be utterly familiar with the job description as well as the company culture. Always remember to include actual examples of your experience and achievements to date.
 
 ### **WHAT ARE YOUR SALARY EXPECTATIONS?**
+
+This question is designed to let interviewers see if money is the only thing that matters. So, remember to emphasize that your priority lies with the job and not just the pay packet.
 
 ### **DO YOU HAVE ANY QUESTIONS?**
 
