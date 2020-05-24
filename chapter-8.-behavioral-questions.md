@@ -2,8 +2,6 @@
 
 ### **TELL ME ABOUT YOURSELF?**
 
-Keep it short and succinct, preferably no longer than 2 – 3 minutes.
-
 What should your reply cover?  Make sure you have done your research on what the company expects from the successful applicant, so include information on your qualifications, personality and work experience \(making sure they are kept relevant to the position in question\). And avoid going into detail about personal life, family etc. at this early stage.
 
 #### _Answer_
