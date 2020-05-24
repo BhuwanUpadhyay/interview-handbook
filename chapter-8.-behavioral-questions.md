@@ -1,16 +1,34 @@
 # Chapter - 8. Behavioral Questions
 
-## What motivates you to potentially join us?
+### **TELL ME ABOUT YOURSELF?**
 
-Personally, I think it’s pretty cool to work at a company that focuses on personal and professional values. **`<Company Name>`** wants everyone to be true to their values and to come to work as they are. The `Leadership Principles` and `Performance Enablement Program` are very attractive that  “Welcome, respect and include people from different backgrounds” and “Don’t be afraid to experiment and try out new things”.
+Keep it short and succinct, preferably no longer than 2 – 3 minutes.
 
-`Customer obsession, Deliver results, Start small and learn fast, Challenge Status and Ask Questions, Courage, Detailed thinkers.`
+What should your reply cover?  Make sure you have done your research on what the company expects from the successful applicant, so include information on your qualifications, personality and work experience \(making sure they are kept relevant to the position in question\). And avoid going into detail about personal life, family etc. at this early stage.
 
-With my current role and experiences, For example, 
+#### _Answer_
 
-## Have you had a chance to answer the previous question?
+I am a software engineer with 6 years experience and write a good piece of software by involving myself in the complete product development life-cycle of successfully launched applications. I'm great at knowing the right algorithm for a problem and the suitable architecture for a business because I read software engineering books, articles, blog post constantly. I love working with people to do things bigger than I cold accomplish alone. I'm motivated by big problems that can challenge me. Also, love to helps other and don't afraid to try new stuffs.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+### **WHAT ARE YOUR WEAKNESSES?**
+
+### **WHAT IS YOUR GREATEST ACHIEVEMENT?**
+
+### **WHAT WOULD YOU LIKE TO BE DOING FIVE YEARS FROM NOW?**
+
+### **WHY DO YOU WANT TO WORK WITH US?**
+
+### **WHY DID YOU APPLY FOR THIS POSITION?**
+
+### **WHY DID YOU LEAVE YOUR LAST JOB?**
+
+### **WHY SHOULD WE HIRE YOU?**
+
+### **WHAT ARE YOUR SALARY EXPECTATIONS?**
+
+### **DO YOU HAVE ANY QUESTIONS?**
+
+**I**t’s your chance to finish the interview on a real positive. Even if you don’t believe this is the role for you, make sure you have at least 3 prepared questions and ask them. Replying that you’ve got nothing to ask will always leave the impression to the interviewer that you are not really interested in the job.
 
 
 
