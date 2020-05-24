@@ -42,6 +42,8 @@ Whatever your reason, make sure you put a positive spin on your answer. Never co
 
 ### **WHY SHOULD WE HIRE YOU?**
 
+This is the answer where you link your skills, experience, education and your personality to the job itself. So you must be utterly familiar with the job description as well as the company culture. Always remember to include actual examples of your experience and achievements to date.
+
 ### **WHAT ARE YOUR SALARY EXPECTATIONS?**
 
 ### **DO YOU HAVE ANY QUESTIONS?**
