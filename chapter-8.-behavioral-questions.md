@@ -32,7 +32,7 @@ This is a good opportunity to highlight how you can contribute to the company if
 
 ### **DO YOU HAVE ANY QUESTIONS?**
 
-**I**t’s your chance to finish the interview on a real positive. Even if you don’t believe this is the role for you, make sure you have at least 3 prepared questions and ask them. Replying that you’ve got nothing to ask will always leave the impression to the interviewer that you are not really interested in the job.
+It's your chance to finish the interview on a real positive. Even if you don’t believe this is the role for you, make sure you have at least 3 prepared questions and ask them. Replying that you’ve got nothing to ask will always leave the impression to the interviewer that you are not really interested in the job.
 
 
 
