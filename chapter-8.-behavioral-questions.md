@@ -32,6 +32,8 @@ Make sure your answer focuses on 2 or 3 key points which match with the organisa
 
 ### **WHY DID YOU APPLY FOR THIS POSITION?**
 
+Best way to answer this question is to spend some time examining what you like about both the role and the company. It is likely you will find something such as the culture, work environment, or role your job will play in the future success of the business.
+
 ### **WHY DID YOU LEAVE YOUR LAST JOB?**
 
 ### **WHY SHOULD WE HIRE YOU?**
