@@ -22,9 +22,9 @@ _3 things really._
 
 _First of I developed a government payment system that manages transactions between ministries for the government of Kuwait. That was almost 3 years ago. Also as a part of the same project, I developed a very rich report generation engine which liked by all the stakeholders of that project._
 
-_Second I played a role while the company started adopting micro-service architecture and did a lot amount of research into developing company culture for micro-service development practices, which ultimately helped to developed fully micro-service architecture based corporate payment system for SIB bank in Dubai that provides micro-management view of accounts for a corporate client of the bank. As apart of the same project, I lead technical development for the trade-finance module both backend and frontend. ‌_
+_Second of I played a role while the company started adopting micro-service architecture and did a lot amount of research into developing company culture for micro-service development practices, which ultimately helped to developed fully micro-service architecture based corporate payment system for SIB bank in Dubai that provides micro-management view of accounts for a corporate client of the bank. As apart of the same project, I lead technical development for the trade-finance module both backend and frontend. ‌_
 
-_Third I played a very effective role in an established new branch in Nepal. Now, we have 30 employees on this branch and I am leading one of the team right now._
+_Third of I played a very effective role in an established new branch in Nepal. Now, we have 30 employees on this branch and I am leading one of the team right now._
 
 ### **WHAT WOULD YOU LIKE TO BE DOING FIVE YEARS FROM NOW?**
 
