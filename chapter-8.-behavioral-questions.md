@@ -6,7 +6,7 @@ What should your reply cover?  Make sure you have done your research on what the
 
 #### _Answer_
 
-I am a software engineer with 6 years of experience and write a good piece of software by involving myself in the complete product development lifecycle of successfully launched applications. I'm great at knowing the right algorithm for a problem and the suitable architecture for a business because I read software engineering books, articles, blogs constantly. I love working with people to do things bigger than I could accomplish alone. I'm motivated by big problems that can challenge me. Also, I love to help others and don't afraid to try new stuff.
+_I am a software engineer with 6 years of experience and write a good piece of software by involving myself in the complete product development lifecycle of successfully launched applications. I'm great at knowing the right algorithm for a problem and the suitable architecture for a business because I read software engineering books, articles, blogs constantly. I love working with people to do things bigger than I could accomplish alone. I'm motivated by big problems that can challenge me. Also, I love to help others and don't afraid to try new stuff._
 
 ### **WHAT ARE YOUR WEAKNESSES?**
 
@@ -18,13 +18,13 @@ This is a good opportunity to highlight how you can contribute to the company if
 
 #### Answer
 
-3 things really.
+_3 things really._
 
-First of I developed a government payment system that manages transactions between ministries for the government of Kuwait. That was almost 3 years ago. Also as a part of the same project, I developed a very rich report generation engine which liked by all the stakeholders of that project.
+_First of I developed a government payment system that manages transactions between ministries for the government of Kuwait. That was almost 3 years ago. Also as a part of the same project, I developed a very rich report generation engine which liked by all the stakeholders of that project._
 
-Second I played a role while the company started adopting micro-service architecture and did a lot amount of research into developing company culture for micro-service development practices, which ultimately helped to developed fully micro-service architecture based corporate payment system for SIB bank in Dubai that provides micro-management view of accounts for a corporate client of the bank. As apart of the same project, I lead technical development for the trade-finance module both backend and frontend. ‌
+_Second I played a role while the company started adopting micro-service architecture and did a lot amount of research into developing company culture for micro-service development practices, which ultimately helped to developed fully micro-service architecture based corporate payment system for SIB bank in Dubai that provides micro-management view of accounts for a corporate client of the bank. As apart of the same project, I lead technical development for the trade-finance module both backend and frontend. ‌_
 
-Third I played a very effective role in an established new branch in Nepal. Now, we have 30 employees on this branch and I am leading one of the team right now.
+_Third I played a very effective role in an established new branch in Nepal. Now, we have 30 employees on this branch and I am leading one of the team right now._
 
 ### **WHAT WOULD YOU LIKE TO BE DOING FIVE YEARS FROM NOW?**
 
@@ -35,6 +35,15 @@ Your answer should assure the interviewer that your career progression goals are
 This is the question designed to give your interviewer an indication of how much you know about the organisation, their culture and whether you can identify with the company’s vision and values. Every business has its strong points; just make sure you focus on these in your answer. ****
 
 Make sure your answer focuses on 2 or 3 key points which match with the organisation’s ethos.
+
+#### _Answer_
+
+_I read your company’s mission and vision. After finding out more information about your company from social media, I can clearly see how my goals align with the purposes of the company. There's nothing I love more than when I am working with other engaged individuals towards a common goal, and that's what excited me about working here. My research has led me to four fundamental ways that my goals align with yours, and here they are._ 
+
+* _Customer Obsession_
+* _Deliver Result_
+* _Start small and learn fast and iterates_
+* _Detailed thinkers_
 
 ### **WHY DID YOU APPLY FOR THIS POSITION? WHY** YOU ARE INTERESTED FOR THIS ROLE?
 
