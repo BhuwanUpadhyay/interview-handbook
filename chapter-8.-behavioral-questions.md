@@ -16,6 +16,16 @@ You can admit to those which you have that are irrelevant to the job in question
 
 This is a good opportunity to highlight how you can contribute to the company if you are successfully recruited, so focus on an achievement that applies to the position.
 
+#### Answer
+
+3 things really.
+
+First of I developed a government payment system that manages transactions between ministries for the government of Kuwait. That was almost 3 years ago. Also as a part of the same project, I developed a very rich report generation engine which liked by all the stakeholders of that project.
+
+Second I played a role while the company started adopting micro-service architecture and did a lot amount of research into developing company culture for micro-service development practices, which ultimately helped to developed fully micro-service architecture based corporate payment system for SIB bank in Dubai that provides micro-management view of accounts for a corporate client of the bank. As apart of the same project, I lead technical development for the trade-finance module both backend and frontend. ‌
+
+Third I played a very effective role in an established new branch in Nepal. Now, we have 30 employees on this branch and I am leading one of the team right now.
+
 ### **WHAT WOULD YOU LIKE TO BE DOING FIVE YEARS FROM NOW?**
 
 Your answer should assure the interviewer that your career progression goals are in line with the actual future plans for the company. As such, it is crucial that you do your homework on the company’s future plans so that you know what to expect for yourself and whether it will meet your long-term career objectives.
