@@ -42,7 +42,7 @@ _I read your company’s mission and vision. After finding out more information 
 
 * _Customer Obsession_
 * _Deliver Result_
-* _Start small and learn fast and iterates_
+* _Start small, learn fast and iterates_
 * _Detailed thinkers_
 
 ### **WHY DID YOU APPLY FOR THIS POSITION? WHY** YOU ARE INTERESTED FOR THIS ROLE?
