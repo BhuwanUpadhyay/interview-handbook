@@ -18,7 +18,7 @@ This is a good opportunity to highlight how you can contribute to the company if
 
 #### Answer
 
-_3 things really._
+_Mainly 3 things._
 
 _First of I developed a government payment system that manages transactions between ministries for the government of Kuwait. That was almost 3 years ago. Also as a part of the same project, I developed a very rich report generation engine which liked by all the stakeholders of that project._
 
