@@ -51,6 +51,10 @@ Best way to answer this question is to spend some time examining what you like a
 
 Once you know why you want this job, you can then prepare a response that will relate to how well you fit with the position. Convince the interviewer that you will be an asset to the company.
 
+#### _Answer_
+
+_While I do enjoy working on projects in my current role, this position allows me to use my technical expertise for more large projects with higher impact. I’m eager to combine my leadership talents with my technical skills to create useful piece of software for an industry leader like &lt;Company Name&gt;.  I applied for this position because after reading the job description, it seems like a great opportunity to continue building software engineering skills and work as a team player. And since I’ve been doing this exact type of work for 3 years with my current employer,  I’d be able to hit the ground running and start contributing immediately to your team’s efforts._
+
 ### **WHY DID YOU LEAVE YOUR LAST JOB?**
 
 Whatever your reason, make sure you put a positive spin on your answer. Never complain about what made you unhappy or make derogatory remarks about colleagues or management, this is a real no, no in interviews. Instead focus on your career goals and how the job you are applying for provides a better environment for growth than your previous or current one. Emphasize what you have learned in your most recent role and the valuable skills you can now offer.
