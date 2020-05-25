@@ -73,5 +73,13 @@ This question is designed to let interviewers see if money is the only thing tha
 
 It's your chance to finish the interview on a real positive. Even if you don’t believe this is the role for you, make sure you have at least 3 prepared questions and ask them. Replying that you’ve got nothing to ask will always leave the impression to the interviewer that you are not really interested in the job.
 
+#### Answer
+
+Well, I have few questions that I want to know from you.
+
+First, How do you think this position will help me grow as an engineer?
+
+Second, do you allow employees to dedicate any percentage of their time other projects? \(e.g. investigating and prototyping with new technologies\)
+
 
 
