@@ -40,10 +40,10 @@ Make sure your answer focuses on 2 or 3 key points which match with the organisa
 
 _Actually, I read your company’s mission and vision. After finding out more information about your company from social media, I can clearly see how my goals align with the purposes of the company. There's nothing I love more than when I am working with other engaged individuals towards a common goal, and that's what excited me about working here. Also, My research has led me to four fundamental ways that my goals align with yours, and here they are._ ‌
 
-* _Customer Obsession_
-* _Deliver Result_
-* _Start small, learn fast and iterates_
-* _Detailed thinking_
+* _Customer Obsession - Leaders understand their customers and with absolute dedication, they ensure that serving the customer comes first._
+* _Deliver Results - Leaders have no barriers to their output. They don’t hesitate, they don’t have excuses, they get on and deliver value, consistently._
+* _Start small and learn fast - Leaders start small and iterate their ideas. They test their ideas today so they can learn and improve tomorrow._
+* _Detailed thinking - Leaders know that to be a disruptor in a competitive industry requires radical, detailed thinking._
 
 ### **WHY DID YOU APPLY FOR THIS POSITION? WHY** YOU ARE INTERESTED FOR THIS ROLE?
 
