@@ -4,7 +4,7 @@
 
 What should your reply cover?  Make sure you have done your research on what the company expects from the successful applicant, so include information on your qualifications, personality and work experience \(making sure they are kept relevant to the position in question\). And avoid going into detail about personal life, family etc. at this early stage.
 
-#### _Answer_
+#### Answer
 
 _I am a software engineer with 6 years of experience and write a good piece of software by involving myself in the complete product development lifecycle of successfully launched applications. I'm great at knowing the right algorithm for a problem and the suitable architecture for a business because I read software engineering books, articles, blogs constantly. I love working with people to do things bigger than I could accomplish alone. I'm motivated by big problems that can challenge me. Also, I love to help others and don't afraid to try new stuff._
 
@@ -36,7 +36,7 @@ This is the question designed to give your interviewer an indication of how much
 
 Make sure your answer focuses on 2 or 3 key points which match with the organisation’s ethos.
 
-#### _Answer_
+#### Answer
 
 _I read your company’s mission and vision. After finding out more information about your company from social media, I can clearly see how my goals align with the purposes of the company. There's nothing I love more than when I am working with other engaged individuals towards a common goal, and that's what excited me about working here. My research has led me to four fundamental ways that my goals align with yours, and here they are._ 
 
@@ -51,7 +51,7 @@ Best way to answer this question is to spend some time examining what you like a
 
 Once you know why you want this job, you can then prepare a response that will relate to how well you fit with the position. Convince the interviewer that you will be an asset to the company.
 
-#### _Answer_
+#### Answer
 
 _While I do enjoy working on projects in my current role, this position allows me to use my technical expertise for more large projects with higher impact. I’m eager to combine my leadership talents with my technical skills to create useful piece of software for an industry leader like &lt;Company Name&gt;.  I applied for this position because after reading the job description, it seems like a great opportunity to continue building software engineering skills and work as a team player. And since I’ve been doing this exact type of work for 3 years with my current employer,  I’d be able to hit the ground running and start contributing immediately to your team’s efforts._
 
