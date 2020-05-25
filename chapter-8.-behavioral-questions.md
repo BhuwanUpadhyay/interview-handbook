@@ -38,7 +38,7 @@ Make sure your answer focuses on 2 or 3 key points which match with the organisa
 
 #### Answer
 
-_Actually, I read your company’s mission and vision. After finding out more information about your company from social media, I can clearly see how my goals align with the purposes of the company. There's nothing I love more than when I am working with other engaged individuals towards a common goal, and that's what excited me about working here. My research has led me to four fundamental ways that my goals align with yours, and here they are._ ‌
+_Actually, I read your company’s mission and vision. After finding out more information about your company from social media, I can clearly see how my goals align with the purposes of the company. There's nothing I love more than when I am working with other engaged individuals towards a common goal, and that's what excited me about working here. Also, My research has led me to four fundamental ways that my goals align with yours, and here they are._ ‌
 
 * _Customer Obsession_
 * _Deliver Result_
