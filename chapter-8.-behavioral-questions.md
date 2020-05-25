@@ -53,7 +53,7 @@ Once you know why you want this job, you can then prepare a response that will r
 
 #### Answer
 
-_While I do enjoy working on projects in my current role, this position allows me to use my technical expertise for more large projects with higher impact. I’m eager to combine my leadership talents with my technical skills to create useful piece of software for an industry leader like &lt;Company Name&gt;.  I applied for this position because after reading the job description, it seems like a great opportunity to continue building software engineering skills and work as a team player. And since I’ve been doing this exact type of work for 3 years with my current employer,  I’d be able to hit the ground running and start contributing immediately to your team’s efforts._
+_Great question, While I do enjoy working on projects in my current role, I think this position allows me to use my technical expertise for more large projects with higher impact. So, I’m eager to combine my leadership talents with my technical skills to create useful piece of software for an industry leader like &lt;Company Name&gt;.  Actually, I applied for this position because after reading the job description, it seems like a great opportunity  for me to continue building software engineering skills and as well as work as a team player. Since I’ve been doing same of work for 3 years with my current employer,  I’d be able to hit the ground running and start contributing immediately to your team’s efforts._
 
 ### **WHY DID YOU LEAVE YOUR LAST JOB?**
 
